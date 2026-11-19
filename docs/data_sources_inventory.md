@@ -190,4 +190,4 @@ WorldPop and INS Tunisia will provide demographic information to support populat
 
 These datasets will be selected and integrated according to their relevance, availability and licensing conditions.
 
-The next step will be to prepare and organize the selected image datasets for AI model development.
+
