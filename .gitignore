@@ -1,0 +1,43 @@
+﻿# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset contents (keep sample README)
+data/raw/**
+data/processed/**
+!data/sample/README.md
+
+# Model artifacts
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Logs
+*.log
+logs/
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
